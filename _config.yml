@@ -238,7 +238,7 @@ social_icons:
   facebook: facebook
 # Sidebar Avatar
 # in directory: /assets/images/avatar.gif
-#avatar:
+avatar: /assets/images/lsh.jpg
 
 
 # Table Of Contents in the Sidebar
